@@ -1,0 +1,8 @@
+DataSet for Brain Tumor Classification(Subdevided into train, test and validation)
+
+https://drive.google.com/drive/folders/15oL0NtY4VROoGwIUINJi3UEwWqANiMZT?usp=sharing
+
+
+DataSet for Chest pneumomnia classification(Subdevided into train, test and validation)
+
+https://drive.google.com/drive/folders/1ILJZOioUSbazFP5Bh1XP8vROCHBNbStz?usp=sharing
