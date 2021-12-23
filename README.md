@@ -1,4 +1,4 @@
-# CNN models for binary classification of pneumonia and brain tumor detection. \ 
+# CNN models for binary classification of pneumonia and brain tumor detection. 
 
 Here I will expain how to run the files in the repository \
 Details regarding different metrics and operations performed on the dataset are present in the project report of this repository.
